@@ -1,4 +1,4 @@
-# 📊 Online Retail — Data Cleaning & Preparation
+# 📊 Online Retail II — Data Cleaning & Preparation
 
 **Cleaning raw retail data and preparing it for meaningful analysis using Microsoft Excel.**
 
@@ -63,9 +63,3 @@ The workbook contains two worksheets covering **2009–2010** and **2010–2011*
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository!
-
-## Project File
-- `cleaned_Data Sampled.xlsx` — Sample cleaned dataset.
-
-## Outcome
-Practiced data cleaning, validation, and preparation using Excel.
